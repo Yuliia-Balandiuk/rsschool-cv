@@ -18,10 +18,12 @@ The main reason why I am motivated to change my present occupation is that I fin
 * __Technologies:__ GIT
 * __Software:__ Visual Studio Code, Figma
 
+
 ## **Education / training courses**
 
 * HTML5/CSS3/JavaScript FUNDAMENTALS course (SoftServe IT Academy)
 * JavaScript course (Programming Mentor)
+
 
 ## **Languages**
 
